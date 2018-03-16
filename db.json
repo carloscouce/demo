@@ -1,6 +1,7 @@
-[
+{
+  "categories": [
   { "id": 1, "eCategory": "Medical", "cost": "$1,400" },
   { "id": 2, "eCategory": "Transportation", "cost": "$150" },
   { "id": 3, "eCategory": "Food", "cost": "$400" }
-]
-
+  ]
+}
