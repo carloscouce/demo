@@ -3,5 +3,16 @@
   { "id": 1, "eCategory": "Medical", "cost": "$1,400", "owner": "John" },
   { "id": 2, "eCategory": "Transportation", "cost": "$150", "owner": "Kate" },
   { "id": 3, "eCategory": "Food", "cost": "$400", "owner": "Stu" }
+  ],
+  "expenses": [
+  { "id": 1, "owner": "John", "name": "Wawa Run", "cost": "$10", "date": "03/16/2018" },
+  { "id": 2, "owner": "John", "name": "Chips", "cost": "$3", "date": "03/15/2018" },
+  { "id": 3, "owner": "John", "name": "White Dog Dinner", "cost": "$50", "date": "03/14/2018" },
+  { "id": 4, "owner": "Mary", "name": "Chinese Take-out", "cost": "$20", "date": "03/13/2018" },
+  { "id": 5, "owner": "Mary", "name": "Water Bottle", "cost": "$1.50", "date": "03/13/2018" },
+  { "id": 6, "owner": "Mary", "name": "Pizza Party", "cost": "$100", "date": "03/13/2018" },
+  { "id": 7, "owner": "Stu", "name": "Jake's Sandwiches", "cost": "$20", "date": "03/12/2018" },
+  { "id": 8, "owner": "Stu", "name": "Jimmy John's", "cost": "$10", "date": "03/11/2018" },
+  { "id": 9, "owner": "Stu", "name": "Bobby's", "cost": "$12", "date": "03/10/2018" }
   ]
 }
