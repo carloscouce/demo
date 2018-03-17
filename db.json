@@ -1,8 +1,8 @@
 {
   "categories": [
-  { "id": 1, "eCategory": "Medical", "cost": "$1,400", "owner": "John" },
-  { "id": 2, "eCategory": "Transportation", "cost": "$150", "owner": "Kate" },
-  { "id": 3, "eCategory": "Food", "cost": "$400", "owner": "Stu" }
+  { "id": 1, "category": "Medical", "cost": "$1,400", "owner": "John" },
+  { "id": 2, "category": "Transportation", "cost": "$150", "owner": "Kate" },
+  { "id": 3, "category": "Food", "cost": "$400", "owner": "Stu" }
   ],
   "expenses": [
   { "id": 1, "owner": "John", "name": "Wawa Run", "cost": "$10", "date": "03/16/2018" },
