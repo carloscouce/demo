@@ -1,12 +1,12 @@
 {
   "categories": [
-  { "id": 1, "title": "Medical", "cost": 1400, "created_by": "John" },
+  { "id": 1, "title": "Medical", "cost": 1,400, "created_by": "John" },
   { "id": 2, "title": "Food", "cost": 200, "created_by": "Dale" },
   { "id": 3, "title": "Pills", "cost": 210, "created_by": "Carlos" },
   { "id": 4, "title": "Transportation", "cost": 12.50, "created_by": "Smita" },
   { "id": 5, "title": "Fun", "cost": 50, "created_by": "Laura" },
   { "id": 6, "title": "Wawa Runs", "cost": 100, "created_by": "John" },
-  { "id": 7, "title": "HUP Surgeries", "cost": 15000, "created_by": "John" }
+  { "id": 7, "title": "HUP Surgeries", "cost": 15,000, "created_by": "John" }
   ],
   "expenses": [
   { "id": 1, "owner": "John", "name": "Wawa Run", "cost": "$10", "date": "03/16/2018" },
