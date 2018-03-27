@@ -6,7 +6,7 @@
   { "id": 4, "title": "Transportation", "cost": 12.50, "created_by": "Smita" },
   { "id": 5, "title": "Fun", "cost": 50, "created_by": "Laura" },
   { "id": 6, "title": "Wawa Runs", "cost": 100, "created_by": "John" },
-  { "id": 7, "title": "HUP Surgeries", "cost": 15000, "created_by": "John" },
+  { "id": 7, "title": "HUP Surgeries", "cost": 15000, "created_by": "John" }
   ],
   "expenses": [
   { "id": 1, "owner": "John", "name": "Wawa Run", "cost": "$10", "date": "03/16/2018" },
